@@ -7,13 +7,23 @@ Pewlett Hackard is a growing company with a number of employees near or at retir
 
 # Results #
 
-***Overall Trends***
-
-Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
-There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
+***Analysis #1***
+The first analysis determined the number of employees retiring along with their job title to determine which areas Pewlett Hackard might focuse attention on as these employees retire. The second table counts the number of employees, based on title, who are retiring from the company. This is important as it links to the next analsyis, determining mentorship eligibiility. 
 
 <p align="center">
 <img src="https://github.com/teachjanderson/Pewlett-Hackard-Analysis/blob/main/Data/retiringemployees1.png" width="600" />
+  
+  <p align="center">
+<img src="https://github.com/teachjanderson/Pewlett-Hackard-Analysis/blob/main/Data/retiretitles2.png" />
+  
+***Considerations Based on Analysis #1***
+
+1. Pewlett Hackard is facing a "Silver Tsunami" of retirement in the near future with roughly 72,000 employees set to retire. 
+2. dasdf
+1. Arapahoe 6.7% (24,801)
+    
+    Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
+There is a bulleted list with four major points from the two analysis deliverables. (6 pt)
 
 ***Summary***
   The summary addresses the two questions and contains two additional queries or tables that may provide more insight. (5 pt)
