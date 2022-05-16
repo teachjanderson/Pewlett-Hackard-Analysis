@@ -8,13 +8,13 @@ Pewlett Hackard is a growing company with a number of employees near or at retir
 
 ***Purpose***
 
-The purpose of this analysis is to provide for those retiring along with training current and future employees who will continue at or join the company. The analysis made use of PGAdmin and SQL query editors to create a variety of tables references in the results and summary sections. 
+The purpose of this analysis is to provide for those retiring along with training current and future employees who will continue at or join the company. The analysis made use of PGAdmin and SQL query editors to create a variety of tables. These are referenced in the results and summary sections. 
 
 # Results #
 
 ***Analysis #1***
 
-The first analysis determined the number of employees retiring along with their job title to determine which areas Pewlett Hackard might focuse attention on as these employees retire. The second table counts the number of employees, based on title, who are retiring from the company. This is important as it links to the next analsyis, determining mentorship eligibiility. 
+The first analysis determined the number of employees retiring and their job title. This supports Pewlett Hackard as these employees retire. The second table counts the number of employees, based on title, who are retiring from the company. This is important as it links to the next analsyis, determining mentorship eligibiility. 
 
 <p align="center">
 <img src="https://github.com/teachjanderson/Pewlett-Hackard-Analysis/blob/main/Data/retiringemployees1.png" width="600" />
@@ -24,9 +24,10 @@ The first analysis determined the number of employees retiring along with their 
   
 ***Considerations Based on Analysis #1***
 
-* Pewlett Hackard is facing a "Silver Tsunami" of retirement in the near future with roughly 72,000 employees set to retire. 
+* Pewlett Hackard is facing a "silver tsunami" of retirement in the near future with roughly 72,000 employees set to retire. 
 * The employees set to retire make up an integral part of the company. 35% of those retiring are Senior Engineers, 35% are Senior Staff, and 13% are Engineers. 
-* This percentage of senior level employees will require considerable mentorship and training to replace. 
+* This percentage of senior level employees requires considerable mentorship and training to replace. 
+* Seeing as retirment will begin soon for many of these employees, implementing the mentorship program is a top priority or incentivizing retiring employees to stay on board as mentors and trainers for the next generation of staff. 
     
 ***Analysis #2***
 
@@ -50,7 +51,7 @@ There are several pressing questions and consideration for Pewlett Hackard as th
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 
-There are 72,458 roles which will need replacement within the company. Even with an assumption of 10% choosing to remain a year or more, the company has a considerable shift coming quickly. Of these roles, 35% of them are senior roles such as Senior Staff and Senior Engineers. 
+There are 72,458 roles which need replacement within the company. Even with an assumption of 10% choosing to remain a year or more, the company has a considerable shift coming. Of these roles, 35% are senior roles such as Senior Staff and Senior Engineers. 
     
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
     
